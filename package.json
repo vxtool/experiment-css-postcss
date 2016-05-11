@@ -4,7 +4,7 @@
   "description": "Experiments with PostCSS",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "postinstall": "gulp"
   },
   "repository": {
     "type": "git",
@@ -23,8 +23,10 @@
     "postcss-use": "^2.0.2"
   },
   "devDependencies": {
+    "autoprefixer": "^6.3.6",
     "gulp": "^3.9.0",
     "gulp-postcss": "^6.0.1",
-    "gulp-sourcemaps": "^1.6.0"
+    "gulp-sourcemaps": "^1.6.0",
+    "precss": "^1.4.0"
   }
 }
