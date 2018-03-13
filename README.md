@@ -1,7 +1,7 @@
 # Experiments with PostCSS
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
-[![issues](https://img.shields.io/github/issues/experiment-solutions/experiment-css-postcss.svg?style=flat-square)](https://github.com/experiment-solutions/experiment-css-postcss/issues)
+[![issues](https://img.shields.io/github/issues/descco-tools/experiment-css-postcss.svg?style=flat-square)](https://github.com/descco-tools/experiment-css-postcss/issues)
 
 ## Install
 
@@ -24,7 +24,7 @@ npm install
 
 ## Log
 
-Check [Releases](https://github.com/experiment-solutions/experiment-css-postcss/releases) for detailed changelog.
+Check [Releases](https://github.com/descco-tools/experiment-css-postcss/releases) for detailed changelog.
 
 ## License
 

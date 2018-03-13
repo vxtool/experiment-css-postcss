@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/experiment-solutions/experiment-css-postcss.git"
+    "url": "git+https://github.com/descco-tools/experiment-css-postcss.git"
   },
   "keywords": [
     "postcss"
@@ -16,9 +16,9 @@
   "author": "Hemerson Vianna",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/experiment-solutions/experiment-css-postcss/issues"
+    "url": "https://github.com/descco-tools/experiment-css-postcss/issues"
   },
-  "homepage": "https://github.com/experiment-solutions/experiment-css-postcss#readme",
+  "homepage": "https://github.com/descco-tools/experiment-css-postcss#readme",
   "dependencies": {
     "postcss-use": "^2.0.2"
   },
